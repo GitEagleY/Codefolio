@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Codefolio/static/css/main.4b995d1e.css",
+    "main.js": "/Codefolio/static/js/main.078a6070.js",
+    "static/media/left_half.jpg": "/Codefolio/static/media/left_half.855d364f842685361f5b.jpg",
+    "static/media/right_half.jpg": "/Codefolio/static/media/right_half.ead6811109ba5f332193.jpg",
+    "index.html": "/Codefolio/index.html",
+    "main.4b995d1e.css.map": "/Codefolio/static/css/main.4b995d1e.css.map",
+    "main.078a6070.js.map": "/Codefolio/static/js/main.078a6070.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b995d1e.css",
+    "static/js/main.078a6070.js"
+  ]
+}
